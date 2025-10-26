@@ -25,11 +25,11 @@ global.yukiJadibts = true
 
 //===
 
-global.botname = "ᥡᥙkі sᥙ᥆ᥙ"
-global.textbot = "ᥡᥙkі, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ"
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
-global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
-global.etiqueta = "ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
+global.botname = "Kotori Itsuka"
+global.textbot = "Kotori, Maki With by ⁱᵃᵐYoel Xzsy"
+global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐYoel Xzsy"
+global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐYoel Xzsy"
+global.etiqueta = "ⁱᵃᵐYoel Xzsy"
 global.currency = "¥enes"
 global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg"
 global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
@@ -37,11 +37,11 @@ global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //===
 
-global.group = "https://chat.whatsapp.com/HaKf6ezcwdbGzmH782eBal"
-global.community = "https://chat.whatsapp.com/G0kXqsteJFU74yrLtg79o6"
-global.channel = "https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n"
-global.github = "https://github.com/The-King-Destroy/YukiBot-MD"
-global.gmail = "thekingdestroy507@gmail.com"
+global.group = "https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N"
+global.community = "https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N"
+global.channel = "https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N"
+global.github = "https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N"
+global.gmail = "https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N"
 global.ch = {
 ch1: "120363401404146384@newsletter"
 }
