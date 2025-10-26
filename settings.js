@@ -40,8 +40,8 @@ global.catalogo = "https://kirito.my/media/images/79456519_k.jpg"
 global.group = "https://chat.whatsapp.com/E6SGsFtxXXz3VKWZtZFc4J?mode=wwt"
 global.community = "https://chat.whatsapp.com/DxyZxnS23UI4pfGxRCWRfM?mode=wwt"
 global.chnel= "https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W"
-global.github = "https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N"
-global.gmail = "https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N"
+global.github = "https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W"
+global.gmail = "https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W"
 global.ch = {
 ch1: "120363420231014623@newsletter"
 }
