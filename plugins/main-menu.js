@@ -9,7 +9,7 @@ let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags
 let txt = `̮Hola @${userId.split('@')[0]} Soy *${botname}* ${(conn.user.jid == global.conn.user.jid ? '(OficialBot)' : '(Sub-Bot)')}
 
 ╭┈ࠢ͜┅ࠦ͜͜╾݊͜─ؕ͜─ׄ͜─֬͜─֟͜─֫͜─ׄ͜─ؕ͜─݊͜┈ࠦ͜┅ࠡ͜͜┈࠭͜͜۰۰͜۰
-│💜 *Creador:* ⁱᵃᵐYoel Xzsy
+│💜 *Creador:* 𝕳𝖆𝖗𝖔𝖑𝖉🥷🏽
 │👑 *Usuarios:* ${totalreg.toLocaleString()}
 │💜 *Versión:* ${vs}
 │👑 *Plugins:* ${totalCommands}
