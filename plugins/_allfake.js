@@ -20,8 +20,8 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'})
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true})
 
 var canal = 'https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N'  
-var comunidad = 'https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N'
-var git = 'https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N'
+var comunidad= 'https://chat.whatsapp.com/DxyZxnS23UI4pfGxRCWRfM?mode=wwt'
+var git = 'https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W'
 var github = 'https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N' 
 var correo = 'https://whatsapp.com/channel/0029Vb84Sin6xCSHfIjL7R1N'
 global.redes = [canal, comunidad, git, github, correo].getRandom()
