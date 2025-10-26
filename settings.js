@@ -17,7 +17,7 @@ global.prems = []
 //===
 
 global.libreria = "Baileys Multi Device"
-global.vs = "^1.8.2|Latest"
+global.vs = "1.0.0"
 global.nameqr = "💜̶۫̄͟㉿𓏲𝐊̸͕᥆𝗍͡᥆r̤і̷𓍲̈͜𝗨̴ᥣ̥𝗍̈rᥲ̄𓊓̵̬𝐁o҉t̸⋆͙̈么͟͞──"
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
