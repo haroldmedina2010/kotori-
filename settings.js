@@ -18,7 +18,7 @@ global.prems = []
 
 global.libreria = "Baileys Multi Device"
 global.vs = "^1.8.2|Latest"
-global.nameqr = "Kotori Itsuka"
+global.nameqr = "💜̶۫̄͟㉿𓏲𝐊̸͕᥆𝗍͡᥆r̤і̷𓍲̈͜𝗨̴ᥣ̥𝗍̈rᥲ̄𓊓̵̬𝐁o҉t̸⋆͙̈么͟͞──"
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
 global.yukiJadibts = true
@@ -29,11 +29,11 @@ global.botname = "Kotori Itsuka"
 global.textbot = "Kotori, Maki With by ⁱᵃᵐYoel Xzsy"
 global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐYoel Xzsy"
 global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐYoel Xzsy"
-global.etiqueta = "ⁱᵃᵐYoel Xzsy"
-global.currency = "¥enes"
-global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg"
-global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
-global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
+global.etiqueta = "💜̶۫̄͟㉿𓏲𝐊̸͕᥆𝗍͡᥆r̤і̷𓍲̈͜𝗨̴ᥣ̥𝗍̈rᥲ̄𓊓̵̬𝐁o҉t̸⋆͙̈么͟͞──"
+global.currency = "KotoriCoins"
+global.banner = "https://kirito.my/media/images/10602321_k.jpg"
+global.icono = "https://kirito.my/media/images/30634163_k.jpg"
+global.catalogo = "https://kirito.my/media/images/79456519_k.jpg"
 
 //===
 
