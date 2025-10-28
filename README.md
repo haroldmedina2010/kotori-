@@ -16,7 +16,7 @@
 <details>
  <summary><b>:paperclip: 🖤 Comandos</b></summary>
 
-<img src="https://files.catbox.moe/uut7ke.jpg" alt="IsagiBot" style="width: 100%; height: auto; max-width: 500px;">
+<img src="" alt="IsagiBot" style="width: 100%; height: auto; max-width: 500px;">
 
 > Nota: Copie y pegue los comandos en Termux uno por uno.
 ```bash
@@ -71,5 +71,6 @@ npm start
 href="https://github.com/yosue891"><img src="https://github.com/yosue891.png" width="80" height="80" alt="Alexiu"/></a> 
 ### ** `👑𝘾𝙍𝙀𝘼𝘿𝙊𝙍 𝙙𝙚 isagi 👑`**
 <a
-href="https://github.com/harold66-Chian"><img src="https://github.com/Harold45.png" width="150" height="150" alt="harold67"/></a>
+href="https://github.com/-Chian"><img src="https://github.com/.png" width="150" height="150" alt=""/></a>
+
 
