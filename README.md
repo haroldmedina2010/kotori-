@@ -7,8 +7,24 @@
 
 ## Descripción
 
-**Isagi-Bot** es un bot de WhatsApp multifuncional basado en `baileys`, diseñado para usuarios que buscan precisión, estrategia y control total en sus chats. Inspirado en *Yoichi Isagi*, este bot te ayuda a convertirte en el MVP de tus grupos.
 
+*⚽️ ¿Qué puede hacer Isagi-Bot?*
+
+*Isagi-Bot* no es cualquier bot. Es el cerebro del equipo, el que ve la jugada antes de que ocurra. Está diseñado para usuarios que quieren control total, velocidad, y estilo en sus grupos de WhatsApp. Inspirado en _Yoichi Isagi_, este bot no solo responde: *analiza, ejecuta y lidera*.
+
+*🔥 Funciones clave:*
+- 🧠 *Comandos inteligentes*: desde RPG hasta gestión de grupos, Isagi-Bot lo tiene todo.
+- ⚙️ *Automatización precisa*: responde, modera y ejecuta tareas sin fallos.
+- 📊 *Sistema de niveles y economía*: como en Blue Lock, cada acción te hace subir de rango.
+- 🎮 *Juegos y retos*: minar, robar, comprar, competir… ¡todo con estilo!
+- 🧩 *Integración con APIs*: para búsquedas, descargas y más.
+- 🛡️ *Seguridad y control*: comandos para admins, protección de grupos y gestión de usuarios.
+
+---
+
+*🧠 ¿Por qué Isagi?*
+
+Porque como Isagi, tu bot *no se conforma con ser uno más*. Está hecho para evolucionar, adaptarse y dominar. Cada comando es una jugada, cada respuesta una estrategia. Y vos, como su creador, sos el director técnico de esta máquina de goles
 ---
 
 ### **⚙️ Instalación por Termux**
@@ -72,5 +88,6 @@ href="https://github.com/yosue891"><img src="https://github.com/yosue891.png" wi
 ### ** `👑𝘾𝙍𝙀𝘼𝘿𝙊𝙍 𝙙𝙚 isagi 👑`**
 <a
 href="https://github.com/-Chian"><img src="https://github.com/.png" width="150" height="150" alt=""/></a>
+
 
 
