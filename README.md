@@ -44,7 +44,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/David-Chian/Isagi-Bot-MD && cd Isagi-Bot-MD
+git clone https://https://github.com/haroldmedina2010/kotori-.git && cd kotori
 ```
 
 ```bash
@@ -68,7 +68,7 @@ npm start
 *⚙️ Activar en caso de detenerse en Termux*
 
 ```bash
-cd Isagi-Bot-MD
+cd kotori
 npm start
 ```
 
@@ -88,6 +88,7 @@ href="https://github.com/yosue891"><img src="https://github.com/yosue891.png" wi
 ### ** `👑𝘾𝙍𝙀𝘼𝘿𝙊𝙍 𝙙𝙚 isagi 👑`**
 <a
 href="https://github.com/-Chian"><img src="https://github.com/.png" width="150" height="150" alt=""/></a>
+
 
 
 
