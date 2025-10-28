@@ -67,10 +67,3 @@ npm start
 💬 *Únete al canal de WhatsApp:* [`Click Aquí`](https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W)
 
 ---
-
-*🪐 COLABORADORES*
-<a href="https://github.com/DevZyxlJs"><img src="https://github.com/DevZyxlJs.png" width="80" height="80" alt="Alexiu"/></a>
-<a href="https://github.com/CheirZ"><img src="https://github.com/CheirZ.png" width="80" height="80" alt="Miguel"/></a>
-
-*👑 CREADOR*
-<a href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="150" height="150" alt="David"/></a>
