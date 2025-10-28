@@ -87,7 +87,8 @@ npm start
 href="https://github.com/yosue891"><img src="https://github.com/yosue891.png" width="80" height="80" alt="Alexiu"/></a> 
 ### ** `👑𝘾𝙍𝙀𝘼𝘿𝙊𝙍 𝙙𝙚 isagi 👑`**
 <a
-href="https://github.com/harold2020-Chian"><img src="https://github.com/harold2020.png" width="150" height="150" alt="harold2020"/></a>
+href="https://github.com/haroldmedina2010-Chian"><img src="https://github.com/haroldmedina2010.png" width="150" height="150" alt="haroldmedina2010"/></a>
+
 
 
 
