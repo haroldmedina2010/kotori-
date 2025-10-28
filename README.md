@@ -1,6 +1,6 @@
 <h1 align="center">💥 Isagi Bot</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7b/5e/3e/7b5e3e3e3e3e3e3e3e3e3e3e3e3e3e.https://files.catbox.moe/0a0gg9.jpg" alt="IsagiBot" style="max-width: 100%;">
+  <img src="https://files.catbox.moe/0a0gg9.jpg" alt="IsagiBot" style="max-width: 100%;">
 </p>
 
 ---
@@ -88,6 +88,7 @@ href="https://github.com/yosue891"><img src="https://github.com/yosue891.png" wi
 ### ** `👑𝘾𝙍𝙀𝘼𝘿𝙊𝙍 𝙙𝙚 isagi 👑`**
 <a
 href="https://github.com/haroldmedina2010-Chian"><img src="https://github.com/haroldmedina2010.png" width="150" height="150" alt="haroldmedina2010"/></a>
+
 
 
 
