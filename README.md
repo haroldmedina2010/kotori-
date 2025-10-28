@@ -82,12 +82,13 @@ npm start
 
 ---
 
-# **`😉 𝙘𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨`**
+# **`😉𝙘𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨`**
 <a
 href="https://github.com/yosue891"><img src="https://github.com/yosue891.png" width="80" height="80" alt="Alexiu"/></a> 
 ### ** `👑𝘾𝙍𝙀𝘼𝘿𝙊𝙍 𝙙𝙚 isagi 👑`**
 <a
 href="https://github.com/-Chian"><img src="https://github.com/.png" width="150" height="150" alt=""/></a>
+
 
 
 
