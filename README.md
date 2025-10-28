@@ -1,5 +1,3 @@
-> ⚽️ Versión actual: ^1.0.5
-
 <h1 align="center">💥 Isagi Bot</h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/7b/5e/3e/7b5e3e3e3e3e3e3e3e3e3e3e3e3e3e.jpg" alt="IsagiBot" style="max-width: 100%;">
@@ -67,3 +65,10 @@ npm start
 💬 *Únete al canal de WhatsApp:* [`Click Aquí`](https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W)
 
 ---
+
+# **`😉 𝙘𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨`**
+<a
+href="https://github.com/yosue891"><img src="https://github.com/yosue891.png" width="80" height="80" alt="Alexiu"/></a> 
+### ** `👑𝘾𝙍𝙀𝘼𝘿𝙊𝙍 𝙙𝙚 isagi 👑`**
+<a
+href="https://github.com/harold-Chian"><img src="https://github.com/Harold.png" width="150" height="150" alt="harold"/></a>
