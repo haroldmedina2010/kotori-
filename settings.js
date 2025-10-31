@@ -18,32 +18,32 @@ global.prems = [17853291589]
 
 global.libreria = "Baileys Multi Device"
 global.vs = "1.0.0"
-global.nameqr = "💜̶۫̄͟㉿𓏲𝐊̸͕᥆𝗍͡᥆r̤і̷𓍲̈͜𝗨̴ᥣ̥𝗍̈rᥲ̄𓊓̵̬𝐁o҉t̸⋆͙̈么͟͞──"
+global.nameqr = "💙🦅⚽ 𝗜𝘀𝗮𝗴𝗶𝗶 🥇🔥
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
 global.yukiJadibts = true
 
 //===
 
-global.botname = "Kotori Itsuka"
-global.textbot = "Kotori, Maki With by ⁱᵃᵐYoel Xzsy"
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐYoel Xzsy"
-global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐYoel Xzsy"
-global.etiqueta = "💜̶۫̄͟㉿𓏲𝐊̸͕᥆𝗍͡᥆r̤і̷𓍲̈͜𝗨̴ᥣ̥𝗍̈rᥲ̄𓊓̵̬𝐁o҉t̸⋆͙̈么͟͞──"
-global.currency = "KotoriCoins"
-global.banner = "https://kirito.my/media/images/10602321_k.jpg"
-global.icono = "https://kirito.my/media/images/30634163_k.jpg"
-global.catalogo = "https://kirito.my/media/images/79456519_k.jpg"
+global.botname = "💙🦅⚽ 𝗜𝘀𝗮𝗴𝗶𝗶 🥇🔥"
+global.textbot = "🦅⚽ 𝗜𝘀𝗮𝗴𝗶𝗶 🥇🔥, shoyo With by 𝕳𝖆𝖗𝖔𝖑𝖉🥷🏽"
+global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝕳𝖆𝖗𝖔𝖑𝖉🥷🏽"
+global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ 𝕳𝖆𝖗𝖔𝖑𝖉🥷🏽"
+global.etiqueta = "💙🦅⚽ 𝗜𝘀𝗮𝗴𝗶𝗶 🥇🔥"
+global.currency = "harcoins"
+global.banner = "https://files.catbox.moe/jfoupz.jpg"
+global.icono = "https://files.catbox.moe/1erdg4.jpg"
+global.catalogo = "https://files.catbox.moe/05i7ff.jpg"
 
 //===
 
 global.group = "https://chat.whatsapp.com/E6SGsFtxXXz3VKWZtZFc4J?mode=wwt"
 global.community = "https://chat.whatsapp.com/DxyZxnS23UI4pfGxRCWRfM?mode=wwt"
 global.chnel= "https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W"
-global.github = "https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W"
-global.gmail = "https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W"
+global.github = "https://github.com/haroldmedina2010/kotori-.git"
+global.gmail = "aroldmediana2010@gmail.com"
 global.ch = {
-ch1: "120363420231014623@newsletter"
+ch1: ""
 }
 
 //===
