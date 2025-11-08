@@ -7,7 +7,7 @@ const { generateWAMessageFromContent, prepareWAMessageMedia, proto } = pkg
 
 var handler = m => m
 handler.all = async function (m) { 
-global.canalIdM = ["120363420231014623@newsletter", "120363420231014623@newsletter"]
+global.canalIdM = ["120363405639090840@newsletter", "120363405639090840@newsletter"]
 global.canalNombreM = ["💜̶۫̄͟㉿𓏲𝐊̸͕᥆𝗍͡᥆r̤і̷𓍲̈͜𝗨̴ᥣ̥𝗍̈rᥲ̄𓊓̵̬𝐂h҉𝐚𝐧𝐧ꫀ𝐥么͟͞──", "💜̶۫̄͟㉿𓏲𝐊̸͕᥆𝗍͡᥆r̤і̷𓍲̈͜𝗨̴ᥣ̥𝗍̈rᥲ̄𓊓̵̬𝐂h҉𝐚𝐧𝐧ꫀ𝐥么͟͞──"]
 global.channelRD = await getRandomChannel()
 
@@ -19,7 +19,7 @@ global.mes = d.toLocaleDateString('es', {month: 'long'})
 global.año = d.toLocaleDateString('es', {year: 'numeric'})
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true})
 
-var canal = 'https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W'  
+var canal = 'https://whatsapp.com/channel/0029VbBt9P02ZjCgOYex1s11'  
 var comunidad= 'https://chat.whatsapp.com/DxyZxnS23UI4pfGxRCWRfM?mode=wwt'
 var git = 'https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W'
 var github = 'https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W' 
