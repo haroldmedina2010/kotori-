@@ -39,11 +39,11 @@ global.catalogo = "https://files.catbox.moe/05i7ff.jpg"
 
 global.group = "https://chat.whatsapp.com/E6SGsFtxXXz3VKWZtZFc4J?mode=wwt"
 global.community = "https://chat.whatsapp.com/DxyZxnS23UI4pfGxRCWRfM?mode=wwt"
-global.chnel= "https://whatsapp.com/channel/0029VbBG4i2GE56rSgXsqw2W"
+global.chnel= "https://whatsapp.com/channel/0029VbBt9P02ZjCgOYex1s11"
 global.github = "https://github.com/haroldmedina2010/kotori-.git"
 global.gmail = "aroldmediana2010@gmail.com"
 global.ch = {
-ch1: ""
+ch1: "120363405639090840@newsletter"
 }
 
 //===
